@@ -1,0 +1,675 @@
+Date: 2022-10-07 10:36:04 p.m. MTL  Server is up and Running
+Date: 2022-10-07 10:36:04 p.m. ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-10-07 10:36:04 p.m. ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-10-07 10:36:04 p.m. ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-10-07 10:36:04 p.m. MTL UDP Server Started at port 8080
+Date: 2022-10-31 01:43:22 PM MTL Exception: org.omg.CORBA.NO_IMPLEMENT:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:43:22 PM MTL  Server Shutting down
+Date: 2022-10-31 01:48:25 PM MTL Exception: org.omg.CORBA.NO_IMPLEMENT:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:48:25 PM MTL  Server Shutting down
+Date: 2022-10-31 01:54:44 PM MTL Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:54:44 PM MTL  Server Shutting down
+Date: 2022-10-31 01:58:35 PM MTL Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:58:35 PM MTL  Server Shutting down
+Date: 2022-10-31 02:12:46 PM MTL Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:12:46 PM MTL  Server Shutting down
+Date: 2022-10-31 02:16:52 PM MTL Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:16:52 PM MTL  Server Shutting down
+Date: 2022-10-31 02:17:01 PM MTL Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:17:01 PM MTL  Server Shutting down
+Date: 2022-10-31 02:17:49 PM MTL Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:17:49 PM MTL  Server Shutting down
+Date: 2022-10-31 02:20:46 PM MTL Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:20:46 PM MTL  Server Shutting down
+Date: 2022-10-31 02:28:12 PM MTL  Server is Up & Running
+Date: 2022-10-31 02:28:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-10-31 02:28:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-10-31 02:28:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-10-31 02:28:12 PM MTL UDP Server Started at port 8080
+Date: 2022-10-31 02:30:48 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLE030320 || 
+--------------------------------
+Concert:
+MTLA020220 || 
+--------------------------------
+Art gallery:
+MTLM010120 || 
+--------------------------------
+
+Date: 2022-10-31 02:31:50 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA030220 eventType: Concert  -- Server Response:  Failed: The event does not exist
+Date: 2022-10-31 02:33:02 PM ClientID: MTLP1000 -- Request Type:  CORBA swapEvent  -- Request Parameters:  eventID: MTLM010120 eventType: Theater new_eventID: Concert new_eventType: MTLA102920  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLM010120
+Date: 2022-11-01 02:56:26 PM MTL Exception: com.sun.xml.internal.ws.server.ServerRtException: Server Runtime Error: java.lang.IllegalArgumentException: Context with URL path /DTRS already exists on the server /127.0.0.1:8080
+Date: 2022-11-01 02:56:26 PM MTL  Server Shutting down
+Date: 2022-11-01 02:57:36 PM MTL Exception: com.sun.xml.internal.ws.server.ServerRtException: Server Runtime Error: java.lang.IllegalArgumentException: Context with URL path /DTRS already exists on the server /127.0.0.1:8080
+Date: 2022-11-01 02:57:36 PM MTL  Server Shutting down
+Date: 2022-11-01 02:59:52 PM MTL  Server is Up & Running
+Date: 2022-11-01 02:59:52 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 02:59:52 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 02:59:52 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 02:59:52 PM MTL  Server Shutting down
+Date: 2022-11-01 02:59:52 PM MTL UDP Server Started at port 18080
+Date: 2022-11-01 03:03:29 PM MTL  Server is Up & Running
+Date: 2022-11-01 03:03:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 03:03:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 03:03:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 03:03:29 PM MTL  Server Shutting down
+Date: 2022-11-01 03:03:29 PM MTL UDP Server Started at port 18080
+Date: 2022-11-01 05:53:27 PM MTL  Server is Up & Running
+Date: 2022-11-01 05:53:27 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 05:53:27 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 05:53:27 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 05:53:27 PM MTL  Server Shutting down
+Date: 2022-11-01 05:53:27 PM MTL UDP Server Started at port 18080
+Date: 2022-11-01 06:38:42 PM MTL Exception: com.sun.xml.internal.ws.model.RuntimeModelerException: class: dtrs.DTRSWebServices could not be found
+Date: 2022-11-01 06:38:42 PM MTL  Server Shutting down
+Date: 2022-11-01 06:39:24 PM MTL Exception: com.sun.xml.internal.ws.model.RuntimeModelerException: class: dtrs.DTRSWebServices could not be found
+Date: 2022-11-01 06:39:25 PM MTL  Server Shutting down
+Date: 2022-11-01 06:40:55 PM MTL Exception: com.sun.xml.internal.ws.model.RuntimeModelerException: class: dtrs.DTRSWebServices could not be found
+Date: 2022-11-01 06:40:55 PM MTL  Server Shutting down
+Date: 2022-11-01 06:41:33 PM MTL  Server is Up & Running
+Date: 2022-11-01 06:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 06:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 06:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 06:41:33 PM MTL  Server Shutting down
+Date: 2022-11-01 06:41:33 PM MTL UDP Server Started at port 18080
+Date: 2022-11-01 06:45:20 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA102030 eventType: Art gallery  -- Server Response:  Failed: The event does not exist
+Date: 2022-11-01 08:51:56 PM MTL  Server is Up & Running
+Date: 2022-11-01 08:51:56 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 08:51:56 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 08:51:56 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 08:51:56 PM MTL  Server Shutting down
+Date: 2022-11-01 08:51:56 PM MTL UDP Server Started at port 18080
+Date: 2022-11-01 09:20:32 PM MTL  Server is Up & Running
+Date: 2022-11-01 09:20:32 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 09:20:32 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 09:20:32 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 09:20:32 PM MTL  Server Shutting down
+Date: 2022-11-01 09:20:32 PM MTL UDP Server Started at port 18080
+Date: 2022-11-01 09:30:36 PM MTL  Server is Up & Running
+Date: 2022-11-01 09:30:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 09:30:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 09:30:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 09:30:36 PM MTL  Server Shutting down
+Date: 2022-11-01 09:30:36 PM MTL UDP Server Started at port 18080
+Date: 2022-11-01 09:48:01 PM MTL  Server is Up & Running
+Date: 2022-11-01 09:48:01 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-01 09:48:01 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-01 09:48:01 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-01 09:48:01 PM MTL  Server Shutting down
+Date: 2022-11-01 09:48:01 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 01:58:50 PM MTL  Server is Up & Running
+Date: 2022-11-13 01:58:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 01:58:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 01:58:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 01:58:50 PM MTL  Server Shutting down
+Date: 2022-11-13 01:58:50 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 01:58:58 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 01:58:58 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 01:58:58 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 01:58:58 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 01:58:58 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 01:58:58 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 01:58:58 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-13 02:00:34 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:00:34 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:00:34 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:00:34 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:00:34 PM MTL  Server Shutting down
+Date: 2022-11-13 02:00:34 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:00:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:00:43 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:00:43 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:00:43 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:00:43 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:00:43 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:00:43 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-13 02:06:55 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:06:55 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:06:55 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:06:55 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:06:55 PM MTL  Server Shutting down
+Date: 2022-11-13 02:06:55 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:07:34 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:07:34 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:07:34 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:07:34 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:07:34 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:07:34 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:07:34 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-13 02:07:44 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:07:44 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:07:44 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:07:44 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:07:44 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Failed: Event MTLE100822is already booked by participant MTLP1111
+Date: 2022-11-13 02:07:44 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Failed: Event MTLE100822is already booked by participant MTLP2222
+Date: 2022-11-13 02:07:44 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-13 02:09:40 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:09:40 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:09:40 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:09:40 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:09:40 PM MTL  Server Shutting down
+Date: 2022-11-13 02:09:40 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:11:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:11:48 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:11:48 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:11:48 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:12:19 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Failed: Event Already Exists
+Date: 2022-11-13 02:12:19 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:12:19 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:12:19 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:12:41 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:12:41 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:12:41 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:12:41 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:12:41 PM MTL  Server Shutting down
+Date: 2022-11-13 02:12:41 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:12:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:12:48 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:12:48 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:12:48 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:20:29 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:20:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:20:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:20:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:20:29 PM MTL  Server Shutting down
+Date: 2022-11-13 02:20:29 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:20:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:20:36 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:20:36 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:20:36 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:20:36 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:20:36 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:20:36 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-13 02:24:50 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:24:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:24:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:24:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:24:50 PM MTL  Server Shutting down
+Date: 2022-11-13 02:24:50 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:24:56 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:24:56 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:24:56 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:24:56 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:24:56 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:24:56 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE100822 eventType: Concert  -- Server Response:  Success: Event MTLE100822 booked successfully
+Date: 2022-11-13 02:24:56 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-13 02:29:39 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:29:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:29:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:29:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:29:39 PM MTL  Server Shutting down
+Date: 2022-11-13 02:29:39 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:40:22 PM MTL  Server is Up & Running
+Date: 2022-11-13 02:40:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 02:40:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 02:40:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 02:40:22 PM MTL  Server Shutting down
+Date: 2022-11-13 02:40:22 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 02:40:30 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 02:40:30 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:40:30 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 02:40:30 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 02:40:30 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-13 02:40:30 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP2222
+Date: 2022-11-13 02:40:30 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-13 06:59:12 PM MTL  Server is Up & Running
+Date: 2022-11-13 06:59:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-13 06:59:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-13 06:59:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-13 06:59:12 PM MTL  Server Shutting down
+Date: 2022-11-13 06:59:12 PM MTL UDP Server Started at port 18080
+Date: 2022-11-13 06:59:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-13 06:59:18 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 06:59:18 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-13 06:59:18 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-13 06:59:18 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-13 06:59:18 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP2222
+Date: 2022-11-13 06:59:18 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 12:52:39 PM MTL  Server is Up & Running
+Date: 2022-11-15 12:52:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 12:52:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 12:52:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 12:52:39 PM MTL  Server Shutting down
+Date: 2022-11-15 12:52:39 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 12:52:56 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 12:53:11 PM ClientID:  Event Manager -- Request Type:  UDP request sent listReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 12:53:11 PM ClientID:  Event Manager -- Request Type:  UDP reply receivedlistReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:  TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 12:53:11 PM ClientID:  Event Manager -- Request Type:  UDP request sent listReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 12:53:11 PM ClientID:  Event Manager -- Request Type:  UDP reply receivedlistReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:  VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 12:53:11 PM ClientID:  Event Manager -- Request Type:  RMI listEventAvailability  -- Request Parameters:  eventType: Art gallery  -- Server Response:  MONTREAL server Art gallery :
+ (MTLA101122) in the Afternoon of 10/11/2022 Total[Remaining] Capacity: 4[4] | (MTLA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] |
+---------------------------------
+TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 12:54:03 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Theater new_eventID: Art gallery new_eventType: MTLA101122  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 12:55:06 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 01:18:32 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Theater new_eventID: Art gallery new_eventType: MTLA101122  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:19:31 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Theater new_eventID: Art gallery new_eventType: MTLA101122  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:19:37 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 01:21:58 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Theater new_eventID: Art gallery new_eventType: MTLA101122  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:23:07 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 01:23:27 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Theater new_eventID: Art gallery new_eventType: MTLA101122  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:29:44 PM MTL  Server is Up & Running
+Date: 2022-11-15 01:29:45 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 01:29:45 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 01:29:45 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 01:29:45 PM MTL  Server Shutting down
+Date: 2022-11-15 01:29:45 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 01:30:30 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Theater new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:37:15 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Theater new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:39:06 PM MTL  Server is Up & Running
+Date: 2022-11-15 01:39:06 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 01:39:06 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 01:39:06 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 01:39:06 PM MTL  Server Shutting down
+Date: 2022-11-15 01:39:06 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 01:39:31 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 01:39:31 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010  -- Server Response:  Failed: ParticipantMTLP1000 is not registered in MTLA101010
+Date: 2022-11-15 01:39:31 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101122  -- Server Response:  Failed: ParticipantMTLP1000 is not registered in MTLA101122
+Date: 2022-11-15 01:39:31 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Failed: Your oldEvent MTLA101010 Could not be Canceled reason: Failed: ParticipantMTLP1000 is not registered in MTLA101010
+Date: 2022-11-15 01:40:55 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 01:46:20 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010  -- Server Response:  Failed: ParticipantMTLP1000 is not registered in MTLA101010
+Date: 2022-11-15 01:48:15 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Failed: Event MTLA101122is already booked by participant MTLP1000
+Date: 2022-11-15 01:48:15 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Failed: on Both newEvent MTLA101122 Booking reason: Failed: Event MTLA101122is already booked by participant MTLP1000 and oldEvent MTLA101010 Canceling reason: Failed: did not send cancel request for your new eventMTLA101010
+Date: 2022-11-15 01:48:54 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 01:59:10 PM MTL  Server is Up & Running
+Date: 2022-11-15 01:59:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 01:59:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 01:59:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 01:59:10 PM MTL  Server Shutting down
+Date: 2022-11-15 01:59:10 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 01:59:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-15 01:59:18 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 01:59:18 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 01:59:18 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-15 01:59:18 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-15 01:59:18 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020  -- Server Response:  Failed: ParticipantMTLP2222 is not registered in MTLE101020
+Date: 2022-11-15 01:59:18 PM ClientID: MTLP3333 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP3333
+Date: 2022-11-15 01:59:18 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 01:59:38 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-15 01:59:38 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 01:59:38 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 01:59:38 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-15 01:59:38 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-15 01:59:38 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020  -- Server Response:  Failed: ParticipantMTLP2222 is not registered in MTLE101020
+Date: 2022-11-15 01:59:38 PM ClientID: MTLP3333 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP3333
+Date: 2022-11-15 01:59:38 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 02:00:11 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-15 02:00:11 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 02:00:11 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 02:00:11 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-15 02:00:11 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-15 02:00:11 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020  -- Server Response:  Failed: ParticipantMTLP2222 is not registered in MTLE101020
+Date: 2022-11-15 02:00:11 PM ClientID: MTLP3333 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Sucess: Event MTLE101020 Cancelled for MTLP3333
+Date: 2022-11-15 02:00:11 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 02:00:39 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 02:00:39 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Sucess: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 02:00:39 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Failed: on Both newEvent MTLA101122 Booking reason: Success: Event MTLA101122 booked successfully and oldEvent MTLA101010 Canceling reason: Sucess: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 02:02:57 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 02:03:16 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 booked successfully
+Date: 2022-11-15 02:03:16 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101122 Event Type Art gallery  -- Server Response:  Sucess: Event MTLA101122 Cancelled for MTLP1000
+Date: 2022-11-15 02:03:16 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery new_eventID: MTLA101010 new_eventType: Art gallery  -- Server Response:  Failed: on Both newEvent MTLA101010 Booking reason: Success: Event MTLA101010 booked successfully and oldEvent MTLA101122 Canceling reason: Sucess: Event MTLA101122 Cancelled for MTLP1000
+Date: 2022-11-15 02:03:59 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 02:03:59 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Sucess: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 02:03:59 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Failed: on Both newEvent MTLA101122 Booking reason: Success: Event MTLA101122 booked successfully and oldEvent MTLA101010 Canceling reason: Sucess: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 02:05:00 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 02:05:13 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 booked successfully
+Date: 2022-11-15 02:05:13 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101122 Event Type Art gallery  -- Server Response:  Sucess: Event MTLA101122 Cancelled for MTLP1000
+Date: 2022-11-15 02:05:13 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery new_eventID: MTLA101010 new_eventType: Art gallery  -- Server Response:  Failed: on Both newEvent MTLA101010 Booking reason: Success: Event MTLA101010 booked successfully and oldEvent MTLA101122 Canceling reason: Sucess: Event MTLA101122 Cancelled for MTLP1000
+Date: 2022-11-15 02:06:39 PM MTL  Server is Up & Running
+Date: 2022-11-15 02:06:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 02:06:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 02:06:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 02:06:39 PM MTL  Server Shutting down
+Date: 2022-11-15 02:06:39 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 02:07:02 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 02:07:02 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Success: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 02:07:02 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 swapped with MTLA101122
+Date: 2022-11-15 02:07:05 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 02:44:43 PM MTL  Server is Up & Running
+Date: 2022-11-15 02:44:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 02:44:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 02:44:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 02:44:43 PM MTL  Server Shutting down
+Date: 2022-11-15 02:44:43 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 02:45:48 PM MTL  Server is Up & Running
+Date: 2022-11-15 02:45:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 02:45:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 02:45:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 02:45:48 PM MTL  Server Shutting down
+Date: 2022-11-15 02:45:48 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 02:50:37 PM MTL  Server is Up & Running
+Date: 2022-11-15 02:50:37 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 02:50:37 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 02:50:37 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 02:50:37 PM MTL  Server Shutting down
+Date: 2022-11-15 02:50:37 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 02:51:18 PM MTL  Server is Up & Running
+Date: 2022-11-15 02:51:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 02:51:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 02:51:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 02:51:18 PM MTL  Server Shutting down
+Date: 2022-11-15 02:51:18 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 02:51:51 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-15 02:51:51 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 02:51:51 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 02:51:51 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-15 02:51:51 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-15 02:51:51 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP2222
+Date: 2022-11-15 02:51:51 PM ClientID: MTLP3333 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020  -- Server Response:  Failed: ParticipantMTLP3333 is not registered in MTLE101020
+Date: 2022-11-15 02:51:51 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 02:55:05 PM MTL  Server is Up & Running
+Date: 2022-11-15 02:55:05 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 02:55:05 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 02:55:05 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 02:55:05 PM MTL  Server Shutting down
+Date: 2022-11-15 02:55:05 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 02:55:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-15 02:55:10 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 02:55:10 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 02:55:10 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-15 02:55:10 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-15 02:55:10 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP2222
+Date: 2022-11-15 02:55:10 PM ClientID: MTLP3333 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020  -- Server Response:  Failed: ParticipantMTLP3333 is not registered in MTLE101020
+Date: 2022-11-15 02:55:10 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 03:57:43 PM MTL  Server is Up & Running
+Date: 2022-11-15 03:57:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 03:57:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 03:57:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 03:57:43 PM MTL  Server Shutting down
+Date: 2022-11-15 03:57:43 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 03:58:05 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA111010 eventType: Art gallery  -- Server Response:  Failed: The event does not exist
+Date: 2022-11-15 03:58:25 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA111010 event Type: Art gallery Capacity 5  -- Server Response:  Success: Event MTLA111010added succesfully
+Date: 2022-11-15 03:58:45 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA121010 event Type: Art gallery Capacity 5  -- Server Response:  Success: Event MTLA121010added succesfully
+Date: 2022-11-15 03:59:06 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA111010 eventType: Art gallery  -- Server Response:  Success: Event MTLA111010 booked successfully
+Date: 2022-11-15 03:59:13 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA121010 eventType: Art gallery  -- Server Response:  Success: Event MTLA121010 booked successfully
+Date: 2022-11-15 04:00:03 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:  Failed: The event does not exist
+Date: 2022-11-15 04:02:49 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:  Failed: The event does not exist
+Date: 2022-11-15 04:03:04 PM ClientID:  Event Manager -- Request Type:  UDP request sent listReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 04:03:04 PM ClientID:  Event Manager -- Request Type:  UDP reply receivedlistReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:  TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:03:04 PM ClientID:  Event Manager -- Request Type:  UDP request sent listReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 04:03:04 PM ClientID:  Event Manager -- Request Type:  UDP reply receivedlistReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:  VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:03:04 PM ClientID:  Event Manager -- Request Type:  RMI listEventAvailability  -- Request Parameters:  eventType: Art gallery  -- Server Response:  MONTREAL server Art gallery :
+ (MTLA121010) in the Afternoon of 12/10/2010 Total[Remaining] Capacity: 5[4] | (MTLA101122) in the Afternoon of 10/11/2022 Total[Remaining] Capacity: 4[4] | (MTLA111010) in the Afternoon of 11/10/2010 Total[Remaining] Capacity: 5[4] | (MTLA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] |
+---------------------------------
+TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:03:41 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || MTLA111010 || MTLA121010 || 
+--------------------------------
+
+Date: 2022-11-15 04:04:12 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:  Failed: The event does not exist
+Date: 2022-11-15 04:23:10 PM MTL  Server is Up & Running
+Date: 2022-11-15 04:23:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 04:23:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 04:23:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 04:23:10 PM MTL  Server Shutting down
+Date: 2022-11-15 04:23:10 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 04:23:19 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-15 04:23:19 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 04:23:19 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 04:23:19 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-15 04:23:19 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-15 04:23:19 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP2222
+Date: 2022-11-15 04:23:19 PM ClientID: MTLP3333 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020  -- Server Response:  Failed: ParticipantMTLP3333 is not registered in MTLE101020
+Date: 2022-11-15 04:23:19 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 04:23:43 PM MTL  Server is Up & Running
+Date: 2022-11-15 04:23:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 04:23:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 04:23:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 04:23:43 PM MTL  Server Shutting down
+Date: 2022-11-15 04:23:43 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 04:24:03 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 04:24:03 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Success: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 04:24:03 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 swapped with MTLA101122
+Date: 2022-11-15 04:24:30 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101940 eventType: null new_eventID: MTLA103947 new_eventType: Concert  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101940
+Date: 2022-11-15 04:24:34 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 04:24:55 PM ClientID: MTLP1000 -- Request Type:  UDP request sent bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 04:28:47 PM MTL  Server is Up & Running
+Date: 2022-11-15 04:28:47 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 04:28:47 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 04:28:47 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 04:28:47 PM MTL  Server Shutting down
+Date: 2022-11-15 04:28:47 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 04:29:02 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE101020 event Type: Concert Capacity 2  -- Server Response:  Success: Event MTLE101020added succesfully
+Date: 2022-11-15 04:29:02 PM ClientID: MTLP1111 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 04:29:02 PM ClientID: MTLP2222 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Success: Event MTLE101020 booked successfully
+Date: 2022-11-15 04:29:02 PM ClientID: MTLP3333 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLE101020 eventType: Concert  -- Server Response:  Failed: Event MTLE101020 is full
+Date: 2022-11-15 04:29:02 PM ClientID: MTLP1111 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP1111
+Date: 2022-11-15 04:29:02 PM ClientID: MTLP2222 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020 Event Type Concert  -- Server Response:  Success: Event MTLE101020 Cancelled for MTLP2222
+Date: 2022-11-15 04:29:02 PM ClientID: MTLP3333 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLE101020  -- Server Response:  Failed: ParticipantMTLP3333 is not registered in MTLE101020
+Date: 2022-11-15 04:29:02 PM ClientID:  Event Manager -- Request Type: RMI Remove reservation slot -- Request Parameters: eventID: MTLE101020 event Type: Concert  -- Server Response:  Success:Event Removed Sucessfully
+Date: 2022-11-15 04:29:36 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 04:29:57 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 04:29:57 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Success: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 04:29:57 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101122 new_eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 swapped with MTLA101122
+Date: 2022-11-15 04:30:01 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 04:30:40 PM ClientID: MTLP1000 -- Request Type:  UDP request sent bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 04:32:22 PM MTL  Server is Up & Running
+Date: 2022-11-15 04:32:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 04:32:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 04:32:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 04:32:22 PM MTL  Server Shutting down
+Date: 2022-11-15 04:32:22 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 04:32:35 PM ClientID:  Event Manager -- Request Type:  UDP request sent listReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 04:32:35 PM ClientID:  Event Manager -- Request Type:  UDP reply receivedlistReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:  TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:32:35 PM ClientID:  Event Manager -- Request Type:  UDP request sent listReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 04:32:35 PM ClientID:  Event Manager -- Request Type:  UDP reply receivedlistReservationSlotAvailable  -- Request Parameters:  eventID: null eventType: Art gallery  -- Server Response:  VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:32:35 PM ClientID:  Event Manager -- Request Type:  RMI listEventAvailability  -- Request Parameters:  eventType: Art gallery  -- Server Response:  MONTREAL server Art gallery :
+ (MTLA101122) in the Afternoon of 10/11/2022 Total[Remaining] Capacity: 4[4] | (MTLA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] |
+---------------------------------
+TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:33:27 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101122 eventType: null new_eventID: VANM101122 new_eventType: Art gallery  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101122
+Date: 2022-11-15 04:34:02 PM ClientID: MTLP1000 -- Request Type:  UDP request sent bookEvent  -- Request Parameters:  eventID: VANM101122 eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 04:34:24 PM MTL  Server is Up & Running
+Date: 2022-11-15 04:34:24 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 04:34:24 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 04:34:24 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 04:34:24 PM MTL  Server Shutting down
+Date: 2022-11-15 04:34:24 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 04:34:38 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 04:34:47 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101122 eventType: Art gallery  -- Server Response:  Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 04:35:03 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Success: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 04:35:03 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 booked successfully
+Date: 2022-11-15 04:35:03 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: MTLA101010 new_eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 swapped with MTLA101010
+Date: 2022-11-15 04:35:14 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 04:35:30 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Success: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 04:35:34 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 04:36:08 PM ClientID: MTLP1000 -- Request Type:  UDP request sent bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 05:41:33 PM MTL  Server is Up & Running
+Date: 2022-11-15 05:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLA101122 event Type: Art gallery Capacity 4  -- Server Response:  Success: Event MTLA101122added succesfully
+Date: 2022-11-15 05:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLE100822 event Type: Concert Capacity 5  -- Server Response:  Success: Event MTLE100822added succesfully
+Date: 2022-11-15 05:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: MTLM101222 event Type: Theater Capacity 7  -- Server Response:  Success: Event MTLM101222added succesfully
+Date: 2022-11-15 05:41:33 PM MTL  Server Shutting down
+Date: 2022-11-15 05:41:33 PM MTL UDP Server Started at port 18080
+Date: 2022-11-15 05:41:52 PM ClientID: MTLP1000 -- Request Type:  RMI cancelEvent  -- Request Parameters:  eventID: MTLA101010 Event Type Art gallery  -- Server Response:  Success: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 05:41:52 PM ClientID: MTLP1000 -- Request Type:  UDP request sent bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:   ... 
+Date: 2022-11-15 05:41:52 PM ClientID: MTLP1000 -- Request Type:  UDP reply receivedbookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:  Success: Event TORA101010 booked successfully
+Date: 2022-11-15 05:41:52 PM ClientID: MTLP1000 -- Request Type:  RMI bookEvent  -- Request Parameters:  eventID: TORA101010 eventType: Art gallery  -- Server Response:  Success: Event TORA101010 booked successfully
+Date: 2022-11-15 05:41:52 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: Art gallery new_eventID: TORA101010 new_eventType: Art gallery  -- Server Response:  Success: Event MTLA101010 swapped with TORA101010
+Date: 2022-11-15 05:42:12 PM ClientID: MTLP1000 -- Request Type:  Webservice swapEvent  -- Request Parameters:  eventID: MTLA101010 eventType: null new_eventID: MTLA101010 new_eventType: Art gallery  -- Server Response:  Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 05:42:16 PM ClientID: MTLP1000 -- Request Type:  RMI getBookingSchedule  -- Request Parameters: null -- Server Response:  Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+TORA101010 || 
+--------------------------------
+

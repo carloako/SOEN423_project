@@ -1,0 +1,267 @@
+Date: 2022-10-31 01:43:22 PM VAN Exception: org.omg.CORBA.NO_IMPLEMENT:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:43:22 PM VAN  Server Shutting down
+Date: 2022-10-31 01:48:25 PM VAN Exception: org.omg.CORBA.NO_IMPLEMENT:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:48:25 PM VAN  Server Shutting down
+Date: 2022-10-31 01:54:44 PM VAN Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:54:44 PM VAN  Server Shutting down
+Date: 2022-10-31 01:58:35 PM VAN Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 01:58:35 PM VAN  Server Shutting down
+Date: 2022-10-31 02:12:46 PM VAN Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:12:46 PM VAN  Server Shutting down
+Date: 2022-10-31 02:16:52 PM VAN Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:16:52 PM VAN  Server Shutting down
+Date: 2022-10-31 02:17:01 PM VAN Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:17:01 PM VAN  Server Shutting down
+Date: 2022-10-31 02:17:49 PM VAN Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:17:49 PM VAN  Server Shutting down
+Date: 2022-10-31 02:20:46 PM VAN Exception: org.omg.CORBA.COMM_FAILURE:   vmcid: SUN  minor code: 201  completed: No
+Date: 2022-10-31 02:20:46 PM VAN  Server Shutting down
+Date: 2022-10-31 02:28:12 PM VAN  Server is Up & Running
+Date: 2022-10-31 02:28:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-10-31 02:28:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-10-31 02:28:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-10-31 02:28:12 PM VAN UDP Server Started at port 8082
+Date: 2022-11-01 02:56:26 PM VAN  Server is Up & Running
+Date: 2022-11-01 02:56:26 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:56:26 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:56:26 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:56:26 PM VAN  Server Shutting down
+Date: 2022-11-01 02:56:26 PM VAN UDP Server Started at port 8082
+Date: 2022-11-01 02:57:36 PM VAN  Server is Up & Running
+Date: 2022-11-01 02:57:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:57:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:57:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:57:36 PM VAN  Server Shutting down
+Date: 2022-11-01 02:57:36 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 02:59:52 PM VAN  Server is Up & Running
+Date: 2022-11-01 02:59:52 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:59:52 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:59:52 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 02:59:52 PM VAN  Server Shutting down
+Date: 2022-11-01 02:59:52 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 03:03:29 PM VAN  Server is Up & Running
+Date: 2022-11-01 03:03:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 03:03:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 03:03:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 03:03:29 PM VAN  Server Shutting down
+Date: 2022-11-01 03:03:29 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 05:53:27 PM VAN  Server is Up & Running
+Date: 2022-11-01 05:53:27 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 05:53:27 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 05:53:27 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 05:53:27 PM VAN  Server Shutting down
+Date: 2022-11-01 05:53:27 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 06:38:42 PM VAN Exception: com.sun.xml.internal.ws.model.RuntimeModelerException: class: dtrs.DTRSWebServices could not be found
+Date: 2022-11-01 06:38:42 PM VAN  Server Shutting down
+Date: 2022-11-01 06:39:24 PM VAN Exception: com.sun.xml.internal.ws.model.RuntimeModelerException: class: dtrs.DTRSWebServices could not be found
+Date: 2022-11-01 06:39:25 PM VAN  Server Shutting down
+Date: 2022-11-01 06:40:55 PM VAN Exception: com.sun.xml.internal.ws.model.RuntimeModelerException: class: dtrs.DTRSWebServices could not be found
+Date: 2022-11-01 06:40:55 PM VAN  Server Shutting down
+Date: 2022-11-01 06:41:33 PM VAN  Server is Up & Running
+Date: 2022-11-01 06:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 06:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 06:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 06:41:33 PM VAN  Server Shutting down
+Date: 2022-11-01 06:41:33 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 08:51:56 PM VAN  Server is Up & Running
+Date: 2022-11-01 08:51:56 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 08:51:56 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 08:51:56 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 08:51:56 PM VAN  Server Shutting down
+Date: 2022-11-01 08:51:56 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 09:20:32 PM VAN  Server is Up & Running
+Date: 2022-11-01 09:20:32 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:20:32 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:20:32 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:20:32 PM VAN  Server Shutting down
+Date: 2022-11-01 09:20:32 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 09:30:36 PM VAN  Server is Up & Running
+Date: 2022-11-01 09:30:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:30:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:30:36 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:30:36 PM VAN  Server Shutting down
+Date: 2022-11-01 09:30:36 PM VAN UDP Server Started at port 18082
+Date: 2022-11-01 09:48:01 PM VAN  Server is Up & Running
+Date: 2022-11-01 09:48:01 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:48:01 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:48:01 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-01 09:48:01 PM VAN  Server Shutting down
+Date: 2022-11-01 09:48:01 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 01:58:50 PM VAN  Server is Up & Running
+Date: 2022-11-13 01:58:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 01:58:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 01:58:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 01:58:50 PM VAN  Server Shutting down
+Date: 2022-11-13 01:58:50 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:00:34 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:00:34 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:00:34 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:00:34 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:00:34 PM VAN  Server Shutting down
+Date: 2022-11-13 02:00:34 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:06:55 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:06:55 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:06:55 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:06:55 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:06:55 PM VAN  Server Shutting down
+Date: 2022-11-13 02:06:55 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:09:40 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:09:40 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:09:40 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:09:40 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:09:40 PM VAN  Server Shutting down
+Date: 2022-11-13 02:09:40 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:12:41 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:12:41 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:12:41 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:12:41 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:12:41 PM VAN  Server Shutting down
+Date: 2022-11-13 02:12:41 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:20:29 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:20:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:20:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:20:29 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:20:29 PM VAN  Server Shutting down
+Date: 2022-11-13 02:20:29 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:24:50 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:24:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:24:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:24:50 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:24:50 PM VAN  Server Shutting down
+Date: 2022-11-13 02:24:50 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:29:39 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:29:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:29:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:29:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:29:39 PM VAN  Server Shutting down
+Date: 2022-11-13 02:29:39 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 02:40:22 PM VAN  Server is Up & Running
+Date: 2022-11-13 02:40:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:40:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:40:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 02:40:22 PM VAN  Server Shutting down
+Date: 2022-11-13 02:40:22 PM VAN UDP Server Started at port 18082
+Date: 2022-11-13 06:59:12 PM VAN  Server is Up & Running
+Date: 2022-11-13 06:59:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 06:59:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 06:59:12 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-13 06:59:12 PM VAN  Server Shutting down
+Date: 2022-11-13 06:59:12 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 12:52:39 PM VAN  Server is Up & Running
+Date: 2022-11-15 12:52:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 12:52:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 12:52:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 12:52:39 PM VAN  Server Shutting down
+Date: 2022-11-15 12:52:39 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 12:53:11 PM ClientID:  Event Manager -- Request Type: UDP request received listReservationSlotAvailable  -- Request Parameters: eventID: nulleventType: Art gallery  -- Server Response:  ...
+Date: 2022-11-15 12:53:11 PM ClientID:  Event Manager -- Request Type:  UDP reply sent listReservationSlotAvailable  -- Request Parameters: eventID:null eventTypeArt gallery  -- Server Response:  VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+;
+Date: 2022-11-15 01:29:44 PM VAN  Server is Up & Running
+Date: 2022-11-15 01:29:45 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:29:45 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:29:45 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:29:45 PM VAN  Server Shutting down
+Date: 2022-11-15 01:29:45 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 01:39:06 PM VAN  Server is Up & Running
+Date: 2022-11-15 01:39:06 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:39:06 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:39:06 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:39:06 PM VAN  Server Shutting down
+Date: 2022-11-15 01:39:06 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 01:59:10 PM VAN  Server is Up & Running
+Date: 2022-11-15 01:59:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:59:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:59:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 01:59:10 PM VAN  Server Shutting down
+Date: 2022-11-15 01:59:10 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 02:06:39 PM VAN  Server is Up & Running
+Date: 2022-11-15 02:06:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:06:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:06:39 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:06:39 PM VAN  Server Shutting down
+Date: 2022-11-15 02:06:39 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 02:44:43 PM VAN  Server is Up & Running
+Date: 2022-11-15 02:44:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:44:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:44:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:44:43 PM VAN  Server Shutting down
+Date: 2022-11-15 02:44:43 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 02:45:48 PM VAN  Server is Up & Running
+Date: 2022-11-15 02:45:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:45:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:45:48 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:45:48 PM VAN  Server Shutting down
+Date: 2022-11-15 02:45:48 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 02:50:37 PM VAN  Server is Up & Running
+Date: 2022-11-15 02:50:37 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:50:37 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:50:37 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:50:37 PM VAN  Server Shutting down
+Date: 2022-11-15 02:50:37 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 02:51:18 PM VAN  Server is Up & Running
+Date: 2022-11-15 02:51:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:51:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:51:18 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:51:18 PM VAN  Server Shutting down
+Date: 2022-11-15 02:51:18 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 02:55:05 PM VAN  Server is Up & Running
+Date: 2022-11-15 02:55:05 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:55:05 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:55:05 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 02:55:05 PM VAN  Server Shutting down
+Date: 2022-11-15 02:55:05 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 03:57:43 PM VAN  Server is Up & Running
+Date: 2022-11-15 03:57:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 03:57:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 03:57:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 03:57:43 PM VAN  Server Shutting down
+Date: 2022-11-15 03:57:43 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 04:03:04 PM ClientID:  Event Manager -- Request Type: UDP request received listReservationSlotAvailable  -- Request Parameters: eventID: nulleventType: Art gallery  -- Server Response:  ...
+Date: 2022-11-15 04:03:04 PM ClientID:  Event Manager -- Request Type:  UDP reply sent listReservationSlotAvailable  -- Request Parameters: eventID:null eventTypeArt gallery  -- Server Response:  VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+;
+Date: 2022-11-15 04:23:10 PM VAN  Server is Up & Running
+Date: 2022-11-15 04:23:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:23:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:23:10 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:23:10 PM VAN  Server Shutting down
+Date: 2022-11-15 04:23:10 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 04:23:43 PM VAN  Server is Up & Running
+Date: 2022-11-15 04:23:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:23:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:23:43 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:23:43 PM VAN  Server Shutting down
+Date: 2022-11-15 04:23:43 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 04:28:47 PM VAN  Server is Up & Running
+Date: 2022-11-15 04:28:47 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:28:47 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:28:47 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:28:47 PM VAN  Server Shutting down
+Date: 2022-11-15 04:28:47 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 04:32:22 PM VAN  Server is Up & Running
+Date: 2022-11-15 04:32:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:32:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:32:22 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:32:22 PM VAN  Server Shutting down
+Date: 2022-11-15 04:32:22 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 04:32:35 PM ClientID:  Event Manager -- Request Type: UDP request received listReservationSlotAvailable  -- Request Parameters: eventID: nulleventType: Art gallery  -- Server Response:  ...
+Date: 2022-11-15 04:32:35 PM ClientID:  Event Manager -- Request Type:  UDP reply sent listReservationSlotAvailable  -- Request Parameters: eventID:null eventTypeArt gallery  -- Server Response:  VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+;
+Date: 2022-11-15 04:34:02 PM ClientID: MTLP1000 -- Request Type: UDP request received bookEvent  -- Request Parameters: eventID: VANM101122eventType: Art gallery  -- Server Response:  ...
+Date: 2022-11-15 04:34:24 PM VAN  Server is Up & Running
+Date: 2022-11-15 04:34:24 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:34:24 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:34:24 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 04:34:24 PM VAN  Server Shutting down
+Date: 2022-11-15 04:34:24 PM VAN UDP Server Started at port 18082
+Date: 2022-11-15 05:41:33 PM VAN  Server is Up & Running
+Date: 2022-11-15 05:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Art gallery Capacity 1  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 05:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Concert Capacity 2  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 05:41:33 PM ClientID:  Event Manager -- Request Type: RMI add ReservationSlot -- Request Parameters: eventID: VANM101122 event Type: Theater Capacity 7  -- Server Response:  Success: Event VANM101122added succesfully
+Date: 2022-11-15 05:41:33 PM VAN  Server Shutting down
+Date: 2022-11-15 05:41:33 PM VAN UDP Server Started at port 18082

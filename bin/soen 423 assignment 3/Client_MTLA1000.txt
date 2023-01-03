@@ -1,0 +1,63 @@
+Date: 2022-11-15 12:53:04 PM  login attempted
+Date: 2022-11-15 12:53:04 PM   admin Login successful
+Date: 2022-11-15 12:53:11 PM   attempting to List Event Availability
+Date: 2022-11-15 12:53:11 PM Client Action:  remove event  -- Request Parameters:  EventType:Art gallery  -- Server Response: MONTREAL server Art gallery :
+ (MTLA101122) in the Afternoon of 10/11/2022 Total[Remaining] Capacity: 4[4] | (MTLA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] |
+---------------------------------
+TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 12:53:14 PM   attempting to log out
+Date: 2022-11-15 03:58:14 PM  login attempted
+Date: 2022-11-15 03:58:14 PM   admin Login successful
+Date: 2022-11-15 03:58:25 PM   attempting to add an event
+Date: 2022-11-15 03:58:25 PM Client Action:  Event ADD  -- Request Parameters: EventType:Art gallery EventID: MTLA111010 Capacity: 5  -- Server Response: Success: Event MTLA111010added succesfully
+Date: 2022-11-15 03:58:45 PM   attempting to add an event
+Date: 2022-11-15 03:58:45 PM Client Action:  Event ADD  -- Request Parameters: EventType:Art gallery EventID: MTLA121010 Capacity: 5  -- Server Response: Success: Event MTLA121010added succesfully
+Date: 2022-11-15 03:58:47 PM   attempting to log out
+Date: 2022-11-15 04:03:00 PM  login attempted
+Date: 2022-11-15 04:03:00 PM   admin Login successful
+Date: 2022-11-15 04:03:04 PM   attempting to List Event Availability
+Date: 2022-11-15 04:03:04 PM Client Action:  remove event  -- Request Parameters:  EventType:Art gallery  -- Server Response: MONTREAL server Art gallery :
+ (MTLA121010) in the Afternoon of 12/10/2010 Total[Remaining] Capacity: 5[4] | (MTLA101122) in the Afternoon of 10/11/2022 Total[Remaining] Capacity: 4[4] | (MTLA111010) in the Afternoon of 11/10/2010 Total[Remaining] Capacity: 5[4] | (MTLA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] |
+---------------------------------
+TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:03:41 PM   attempting to get Booking Schedule
+Date: 2022-11-15 04:03:41 PM Client Action: View Booking  -- Request Parameters:  ClientId: MTLP1000  -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || MTLA111010 || MTLA121010 || 
+--------------------------------
+
+Date: 2022-11-15 04:04:12 PM   attempting to book an event
+Date: 2022-11-15 04:04:12 PM Client Action: BookEvent -- Request Parameters:  Client ID: MTLP1000 EventType:Art gallery EventID: TORA101010  -- Server Response: Failed: The event does not exist
+Date: 2022-11-15 04:32:31 PM  login attempted
+Date: 2022-11-15 04:32:31 PM   admin Login successful
+Date: 2022-11-15 04:32:35 PM   attempting to List Event Availability
+Date: 2022-11-15 04:32:35 PM Client Action:  remove event  -- Request Parameters:  EventType:Art gallery  -- Server Response: MONTREAL server Art gallery :
+ (MTLA101122) in the Afternoon of 10/11/2022 Total[Remaining] Capacity: 4[4] | (MTLA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] |
+---------------------------------
+TORONTO Server Art gallery:
+ (TORA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+VANCOUVER Server Art gallery:
+ (VANM101122) in the Morning of 10/11/2022 Total[Remaining] Capacity: 1[1] ||  (VANA101010) in the Afternoon of 10/10/2010 Total[Remaining] Capacity: 5[4] || 
+=====================================
+
+Date: 2022-11-15 04:33:27 PM  attempting to exchange tickets
+Date: 2022-11-15 04:33:27 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101122 oldEventType Art gallery newEventID VANM101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101122
+Date: 2022-11-15 04:34:02 PM  attempting to exchange tickets

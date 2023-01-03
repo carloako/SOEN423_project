@@ -1,0 +1,311 @@
+Date: 2022-10-31 02:30:45 PM  login attempted
+Date: 2022-10-31 02:30:45 PM   Participant Login successful
+Date: 2022-10-31 02:30:48 PM   attempting to get Booking Schedule
+Date: 2022-10-31 02:30:48 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLE030320 || 
+--------------------------------
+Concert:
+MTLA020220 || 
+--------------------------------
+Art gallery:
+MTLM010120 || 
+--------------------------------
+
+Date: 2022-10-31 02:31:50 PM   attempting to book an event
+Date: 2022-10-31 02:31:50 PM Client Action: BookEvent -- Request Parameters: EventType:Concert EventID: MTLA030220  -- Server Response: Failed: The event does not exist
+Date: 2022-10-31 02:33:02 PM  attempting to exchange tickets
+Date: 2022-10-31 02:33:02 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLM010120 oldEventType Art gallery newEventID MTLA102920 newEventType Concert -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLM010120
+Date: 2022-10-31 02:48:19 PM   attempting to log out
+Date: 2022-11-01 03:10:40 PM  login attempted
+Date: 2022-11-01 03:10:40 PM   Participant Login successful
+Date: 2022-11-01 06:45:09 PM  login attempted
+Date: 2022-11-01 06:45:09 PM   Participant Login successful
+Date: 2022-11-01 06:45:20 PM   attempting to book an event
+Date: 2022-11-01 06:45:20 PM Client Action: BookEvent -- Request Parameters: EventType:Art gallery EventID: MTLA102030  -- Server Response: Failed: The event does not exist
+Date: 2022-11-01 06:45:22 PM   attempting to log out
+Date: 2022-11-13 02:41:43 PM  login attempted
+Date: 2022-11-13 02:41:43 PM   Participant Login successful
+Date: 2022-11-13 02:41:46 PM   attempting to get Booking Schedule
+Date: 2022-11-15 12:52:48 PM  login attempted
+Date: 2022-11-15 12:52:48 PM   Participant Login successful
+Date: 2022-11-15 12:52:56 PM   attempting to get Booking Schedule
+Date: 2022-11-15 12:52:56 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 12:53:01 PM   attempting to log out
+Date: 2022-11-15 12:53:19 PM  login attempted
+Date: 2022-11-15 12:53:19 PM   Participant Login successful
+Date: 2022-11-15 12:54:03 PM  attempting to exchange tickets
+Date: 2022-11-15 12:54:03 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 12:55:06 PM   attempting to get Booking Schedule
+Date: 2022-11-15 12:55:06 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 01:18:32 PM  attempting to exchange tickets
+Date: 2022-11-15 01:18:32 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:19:13 PM  login attempted
+Date: 2022-11-15 01:19:14 PM   Participant Login successful
+Date: 2022-11-15 01:19:31 PM  attempting to exchange tickets
+Date: 2022-11-15 01:19:31 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:19:37 PM   attempting to get Booking Schedule
+Date: 2022-11-15 01:19:37 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 01:21:43 PM  login attempted
+Date: 2022-11-15 01:21:43 PM   Participant Login successful
+Date: 2022-11-15 01:21:58 PM  attempting to exchange tickets
+Date: 2022-11-15 01:21:58 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:23:05 PM  login attempted
+Date: 2022-11-15 01:23:05 PM   Participant Login successful
+Date: 2022-11-15 01:23:07 PM   attempting to get Booking Schedule
+Date: 2022-11-15 01:23:07 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM101010 || 
+--------------------------------
+Concert:
+MTLE101010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 01:23:27 PM  attempting to exchange tickets
+Date: 2022-11-15 01:23:27 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:29:57 PM  login attempted
+Date: 2022-11-15 01:29:57 PM   Participant Login successful
+Date: 2022-11-15 01:30:30 PM  attempting to exchange tickets
+Date: 2022-11-15 01:30:30 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:36:58 PM  login attempted
+Date: 2022-11-15 01:36:58 PM   Participant Login successful
+Date: 2022-11-15 01:37:15 PM  attempting to exchange tickets
+Date: 2022-11-15 01:37:15 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 01:39:18 PM  login attempted
+Date: 2022-11-15 01:39:18 PM   Participant Login successful
+Date: 2022-11-15 01:39:31 PM  attempting to exchange tickets
+Date: 2022-11-15 01:39:31 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: Your oldEvent MTLA101010 Could not be Canceled reason: Failed: ParticipantMTLP1000 is not registered in MTLA101010
+Date: 2022-11-15 01:40:55 PM   attempting to get Booking Schedule
+Date: 2022-11-15 01:40:55 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 01:46:20 PM   attempting to cancel an event
+Date: 2022-11-15 01:46:20 PM Client Action: CancelEvent -- Request Parameters: EventType:Art gallery EventID: MTLA101010  -- Server Response: Failed: ParticipantMTLP1000 is not registered in MTLA101010
+Date: 2022-11-15 01:47:58 PM  login attempted
+Date: 2022-11-15 01:47:58 PM   Participant Login successful
+Date: 2022-11-15 01:48:15 PM  attempting to exchange tickets
+Date: 2022-11-15 01:48:15 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: on Both newEvent MTLA101122 Booking reason: Failed: Event MTLA101122is already booked by participant MTLP1000 and oldEvent MTLA101010 Canceling reason: Failed: did not send cancel request for your new eventMTLA101010
+Date: 2022-11-15 01:48:54 PM   attempting to get Booking Schedule
+Date: 2022-11-15 01:48:54 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 02:00:22 PM  login attempted
+Date: 2022-11-15 02:00:22 PM   Participant Login successful
+Date: 2022-11-15 02:00:39 PM  attempting to exchange tickets
+Date: 2022-11-15 02:00:39 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: on Both newEvent MTLA101122 Booking reason: Success: Event MTLA101122 booked successfully and oldEvent MTLA101010 Canceling reason: Sucess: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 02:02:57 PM   attempting to get Booking Schedule
+Date: 2022-11-15 02:02:57 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 02:03:16 PM  attempting to exchange tickets
+Date: 2022-11-15 02:03:16 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101122 oldEventType Art gallery newEventID MTLA101010 newEventType Art gallery -- Server Response: Failed: on Both newEvent MTLA101010 Booking reason: Success: Event MTLA101010 booked successfully and oldEvent MTLA101122 Canceling reason: Sucess: Event MTLA101122 Cancelled for MTLP1000
+Date: 2022-11-15 02:03:47 PM  login attempted
+Date: 2022-11-15 02:03:47 PM   Participant Login successful
+Date: 2022-11-15 02:03:59 PM  attempting to exchange tickets
+Date: 2022-11-15 02:03:59 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Failed: on Both newEvent MTLA101122 Booking reason: Success: Event MTLA101122 booked successfully and oldEvent MTLA101010 Canceling reason: Sucess: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 02:04:58 PM  login attempted
+Date: 2022-11-15 02:04:58 PM   Participant Login successful
+Date: 2022-11-15 02:05:00 PM   attempting to get Booking Schedule
+Date: 2022-11-15 02:05:00 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 02:05:13 PM  attempting to exchange tickets
+Date: 2022-11-15 02:05:13 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101122 oldEventType Art gallery newEventID MTLA101010 newEventType Art gallery -- Server Response: Failed: on Both newEvent MTLA101010 Booking reason: Success: Event MTLA101010 booked successfully and oldEvent MTLA101122 Canceling reason: Sucess: Event MTLA101122 Cancelled for MTLP1000
+Date: 2022-11-15 02:06:52 PM  login attempted
+Date: 2022-11-15 02:06:52 PM   Participant Login successful
+Date: 2022-11-15 02:07:02 PM  attempting to exchange tickets
+Date: 2022-11-15 02:07:02 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Success: Event MTLA101010 swapped with MTLA101122
+Date: 2022-11-15 02:07:05 PM   attempting to get Booking Schedule
+Date: 2022-11-15 02:07:05 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 02:07:12 PM   attempting to log out
+Date: 2022-11-15 03:57:54 PM  login attempted
+Date: 2022-11-15 03:57:54 PM   Participant Login successful
+Date: 2022-11-15 03:58:04 PM   attempting to book an event
+Date: 2022-11-15 03:58:05 PM Client Action: BookEvent -- Request Parameters: EventType:Art gallery EventID: MTLA111010  -- Server Response: Failed: The event does not exist
+Date: 2022-11-15 03:58:10 PM   attempting to log out
+Date: 2022-11-15 03:58:52 PM  login attempted
+Date: 2022-11-15 03:58:52 PM   Participant Login successful
+Date: 2022-11-15 03:59:06 PM   attempting to book an event
+Date: 2022-11-15 03:59:06 PM Client Action: BookEvent -- Request Parameters: EventType:Art gallery EventID: MTLA111010  -- Server Response: Success: Event MTLA111010 booked successfully
+Date: 2022-11-15 03:59:13 PM   attempting to book an event
+Date: 2022-11-15 03:59:13 PM Client Action: BookEvent -- Request Parameters: EventType:Art gallery EventID: MTLA121010  -- Server Response: Success: Event MTLA121010 booked successfully
+Date: 2022-11-15 04:00:03 PM   attempting to book an event
+Date: 2022-11-15 04:00:03 PM Client Action: BookEvent -- Request Parameters: EventType:Art gallery EventID: TORA101010  -- Server Response: Failed: The event does not exist
+Date: 2022-11-15 04:02:42 PM  login attempted
+Date: 2022-11-15 04:02:42 PM   Participant Login successful
+Date: 2022-11-15 04:02:49 PM   attempting to book an event
+Date: 2022-11-15 04:02:49 PM Client Action: BookEvent -- Request Parameters: EventType:Art gallery EventID: TORA101010  -- Server Response: Failed: The event does not exist
+Date: 2022-11-15 04:02:56 PM   attempting to log out
+Date: 2022-11-15 04:23:51 PM  login attempted
+Date: 2022-11-15 04:23:51 PM   Participant Login successful
+Date: 2022-11-15 04:24:03 PM  attempting to exchange tickets
+Date: 2022-11-15 04:24:03 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Success: Event MTLA101010 swapped with MTLA101122
+Date: 2022-11-15 04:24:30 PM  attempting to exchange tickets
+Date: 2022-11-15 04:24:30 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101940 oldEventType Art gallery newEventID MTLA103947 newEventType Concert -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101940
+Date: 2022-11-15 04:24:34 PM   attempting to get Booking Schedule
+Date: 2022-11-15 04:24:34 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 04:24:55 PM   attempting to book an event
+Date: 2022-11-15 04:29:32 PM  login attempted
+Date: 2022-11-15 04:29:32 PM   Participant Login successful
+Date: 2022-11-15 04:29:36 PM   attempting to get Booking Schedule
+Date: 2022-11-15 04:29:36 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 04:29:57 PM  attempting to exchange tickets
+Date: 2022-11-15 04:29:57 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101122 newEventType Art gallery -- Server Response: Success: Event MTLA101010 swapped with MTLA101122
+Date: 2022-11-15 04:30:01 PM   attempting to get Booking Schedule
+Date: 2022-11-15 04:30:01 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 04:30:40 PM  attempting to exchange tickets
+Date: 2022-11-15 04:34:37 PM  login attempted
+Date: 2022-11-15 04:34:37 PM   Participant Login successful
+Date: 2022-11-15 04:34:38 PM   attempting to get Booking Schedule
+Date: 2022-11-15 04:34:38 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 04:34:47 PM   attempting to book an event
+Date: 2022-11-15 04:34:47 PM Client Action: BookEvent -- Request Parameters: EventType:Art gallery EventID: MTLA101122  -- Server Response: Success: Event MTLA101122 booked successfully
+Date: 2022-11-15 04:35:03 PM  attempting to exchange tickets
+Date: 2022-11-15 04:35:03 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101010 newEventType Art gallery -- Server Response: Success: Event MTLA101010 swapped with MTLA101010
+Date: 2022-11-15 04:35:14 PM   attempting to get Booking Schedule
+Date: 2022-11-15 04:35:14 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || MTLA101010 || 
+--------------------------------
+
+Date: 2022-11-15 04:35:30 PM   attempting to cancel an event
+Date: 2022-11-15 04:35:30 PM Client Action: CancelEvent -- Request Parameters: EventType:Art gallery EventID: MTLA101010  -- Server Response: Success: Event MTLA101010 Cancelled for MTLP1000
+Date: 2022-11-15 04:35:34 PM   attempting to get Booking Schedule
+Date: 2022-11-15 04:35:34 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+MTLA101122 || 
+--------------------------------
+
+Date: 2022-11-15 04:35:51 PM   attempting to log out
+Date: 2022-11-15 04:36:00 PM  login attempted
+Date: 2022-11-15 04:36:00 PM   Participant Login successful
+Date: 2022-11-15 04:36:08 PM   attempting to book an event
+Date: 2022-11-15 05:41:39 PM  login attempted
+Date: 2022-11-15 05:41:39 PM   Participant Login successful
+Date: 2022-11-15 05:41:51 PM  attempting to exchange tickets
+Date: 2022-11-15 05:41:52 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID TORA101010 newEventType Art gallery -- Server Response: Success: Event MTLA101010 swapped with TORA101010
+Date: 2022-11-15 05:42:12 PM  attempting to exchange tickets
+Date: 2022-11-15 05:42:12 PM Client Action: exchange ticket  -- Request Parameters:  oldEventID MTLA101010 oldEventType Art gallery newEventID MTLA101010 newEventType Art gallery -- Server Response: Failed: You MTLP1000 Are Not Registered in MTLA101010
+Date: 2022-11-15 05:42:16 PM   attempting to get Booking Schedule
+Date: 2022-11-15 05:42:16 PM Client Action: View Booking -- Request Parameters: null -- Server Response: Theater:
+MTLM301010 || 
+--------------------------------
+Concert:
+MTLE201010 || 
+--------------------------------
+Art gallery:
+TORA101010 || 
+--------------------------------
+
+Date: 2022-11-15 05:42:20 PM   attempting to log out
